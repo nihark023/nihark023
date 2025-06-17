@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihar K</h1>
-<h3 align="center">Flutter Developer | C++ | Python | Firebase | Blockchain Enthusiast</h3>
+<h3 align="center">Flutter Developer | C++ | Python | Firebase | AI & Blockchain Enthusiast</h3>
 
 
 
